@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+	background-color: silver;
+}
+.principal{
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+.labelsCorpo{
+	font-weight: bolder;
+	font-size: 15px;
+	display: flex;
+	margin-left: 25%
+}
+.camposEmail{
+	font-size:12px;
+	display: flex;
+	margin-left: 25%
+}
